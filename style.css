@@ -1,0 +1,24 @@
+.box{
+    width: 10rem;
+    height: 10rem;
+    border: 1px solid black;
+   
+}
+.main-box{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.Scissors{
+    background: url(sicissors.jpg);
+    background-size: cover;
+}
+.paper{
+    background: url(paper.jpg);
+    background-size: cover;
+}
+.rock{
+    background: url(rock.jpg);
+    background-size: cover;
+}
